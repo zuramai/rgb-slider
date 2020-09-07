@@ -1,2 +1,2 @@
 # RGB Slider
-(screenshot)[https://raw.githubusercontent.com/zuramai/rgb-slider/master/Screenshot.png]
+[screenshot](https://github.com/zuramai/rgb-slider/blob/master/Screenshot.png?raw=true)
